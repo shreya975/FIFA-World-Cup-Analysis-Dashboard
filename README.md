@@ -1,101 +1,100 @@
-# 📊 Power BI Dashboard Portfolio
+# ⚽ FIFA World Cup Analysis Dashboard
 
-<p align="center">
-  <img src="images/dashboard.png" width="100%">
-</p>
+## 🚀 Project Overview
 
-This repository contains interactive Power BI dashboard projects focused on transforming raw data into meaningful business insights through modern data visualization and analytics techniques.
+The FIFA World Cup Analysis Dashboard is an interactive Power BI project designed to analyze historical FIFA World Cup tournaments using data visualization and business intelligence techniques.
 
----
-
-# 📁 Project Included
-
-## 🛒 India Superstore Sales Dashboard
-
-An interactive Power BI dashboard developed to analyze:
-
-- Sales Performance
-- Profit Trends
-- Regional Analysis
-- Customer Insights
-- Product Category Performance
-- KPI Monitoring
+The dashboard provides insights into championship performance, goals scored, team participation, runner-up statistics, and tournament trends across multiple World Cup editions.
 
 ---
 
-# 📸 Dashboard Preview
+## 🎯 Objectives
 
-<p align="center">
-  <img src="Screenshot 2026-03-19 170423.png" width="100%">
-</p>
-
----
-
-# ✨ Features
-
-- Interactive Visualizations
-- Dynamic Filters & Slicers
-- Sales & Profit Analysis
-- Region-wise Performance Tracking
-- Customer Analytics
-- Clean Dashboard UI
-- Business KPI Insights
+- Analyze FIFA World Cup historical performance
+- Compare champion and runner-up statistics
+- Track goals scored across tournaments
+- Study team participation trends
+- Identify the most successful football nations
+- Visualize tournament growth over time
 
 ---
 
-# 🛠 Tools & Technologies
+## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
-|------|----------|
-| Power BI | Dashboard Development |
-| DAX | Measures & Calculations |
-| Power Query | Data Transformation |
-| Excel / CSV | Dataset Handling |
-
----
-
-# 📂 Repository Structure
-
-```bash
-Power-BI/
-│
-├── Dashboard/
-│   └── India_Superstore.pbix
-│
-├── Dataset/
-│   └── superstore.csv
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-```
+- Power BI
+- Microsoft Excel
+- Data Visualization
+- Data Analytics
+- Business Intelligence
 
 ---
 
-# 📈 Dashboard Objectives
+## 📊 Dashboard Features
 
-This dashboard helps analyze:
+### 🏆 Champion Analysis
+- Goals scored by champions
+- Championship distribution by country
+- Most successful World Cup nations
 
-- Revenue Growth
-- Profitability
-- Regional Sales Trends
-- Customer Purchasing Behavior
-- Product Performance
+### 🥈 Runner-Up Analysis
+- Runner-up performance comparison
+- Goals scored by runner-up teams
 
-It provides data-driven insights for better business decision-making.
+### ⚽ Goals Analysis
+- Tournament-wise goals scored
+- Champion vs Runner-Up goal comparison
+
+### 🌍 Tournament Trends
+- Teams participating by year
+- Match statistics across tournaments
+- Historical World Cup growth analysis
+
+### 📈 Interactive Filters
+- Year-based filtering
+- Dynamic dashboard exploration
+- Country-wise performance analysis
 
 ---
 
-# 🚀 Future Improvements
+## 📷 Dashboard Screenshot
 
-- Real-time Data Integration
-- Predictive Analytics
-- Mobile Optimized Dashboard
-- Advanced KPI Tracking
+![FIFA World Cup Dashboard](Screenshot%202026-03-19%20170423.png)
 
 ---
 
-# ⭐ Repository Support
+## 🔍 Key Insights
 
-If you found this project useful, consider giving this repository a ⭐ on GitHub.
+- Brazil emerged as the most successful World Cup nation.
+- Tournament participation increased significantly over time.
+- Goal-scoring trends evolved across different eras.
+- European and South American nations dominated World Cup history.
+- World Cup expansion led to increased global participation and competition.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
+- Trend Analysis
+- Business Intelligence
+
+---
+
+## 📈 Project Outcome
+
+Successfully developed an interactive Power BI dashboard that transforms historical FIFA World Cup data into meaningful insights through visual analytics, KPI tracking, and trend analysis. The project demonstrates the ability to convert raw sports data into actionable insights using modern Business Intelligence techniques.
+
+---
+
+## 👩‍💻 Author
+
+### Shreya Mahajan
+
+🔗 LinkedIn: www.linkedin.com/in/shreya-mahajan-b38b28385
+
+🔗 GitHub: https://github.com/shreya975
